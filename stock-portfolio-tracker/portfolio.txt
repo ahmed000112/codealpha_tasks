@@ -1,0 +1,12 @@
+portfolio Report
+-------------------
+stock: APPL
+quantity: 2
+Value: $360
+total investment:360-------------------------------
+portfolio Report
+-------------------
+stock: TSLA
+quantity: 2
+Value: $500
+total investment:860-------------------------------
